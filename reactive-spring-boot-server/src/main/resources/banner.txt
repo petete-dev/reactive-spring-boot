@@ -1,0 +1,10 @@
+  _                       _   _   _  __   _             
+ /_/ _  _  _ _/_ .   _   /_/ /_` /_` /   /_` _  _   _  _
+/ \ /_'/_|/_ /  / |//_' / \ /_, ._/ /   ._/ /_'/ |//_'/ 
+                                                                   
+
+Version => ${info.version}
+
+Built => ${info.timestamp}
+
+SpringBoot Version => ${spring-boot.formatted-version}
